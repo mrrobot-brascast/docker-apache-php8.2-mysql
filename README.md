@@ -1,4 +1,4 @@
-# Docker + Apache + PHP7.2 + Mysql + phpMyAdmin
+# Docker + Apache + PHP8.2 + Mysql + phpMyAdmin
 
 Ambiente para desenvolvimento com Docker. Adicione seus projetos a pasta **www**
 
